@@ -4,5 +4,5 @@ Empowering individuals with disabilities by enabling the creation of effective, 
 For videos of our product please visit the link provide below. Our product was also selected in Shark Tank India.
 https://drive.google.com/file/d/1zPZW0sL1iPA_Kt49Suqqqq2lqNnXd36a/view?usp=drive_link
 https://drive.google.com/file/d/1cRiZXGWoOdCv6w2kzPHtydsHH6ngROGe/view?usp=drive_link
-E-commerce : Kartalam.netlify.app
+E-commerce : https://kartalam.netlify.app/
 
